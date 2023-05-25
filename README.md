@@ -10,5 +10,5 @@ A python program that generates programming quotes and jokes.
 
 ## Fork urls
 - `contributor-1`: [quotes-dias-R](https://github.com/Venuk12/quotes-dias-R)
-- `contributor-2`: [quotes-wizz-b](url-2)
+- `contributor-2`: [quotes-leroux-R](url-2)
 - `contributor-3`: [quotes-toto-b](url-3)
